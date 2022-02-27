@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition and addresse of the officers of the Army, to the Parliament of the Common-Wealth of England, &amp;c. Thursday, May 12, 1659. Ordered by the officers of the Army, that this petition and address be forthwith printed and published. Thomas Sandford Secretary.</title>
+            <author>England and Wales. Army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86746</idno>
+            <idno type="STC">Wing H3428</idno>
+            <idno type="STC">Thomason E983_7</idno>
+            <idno type="STC">ESTC R7769</idno>
+            <idno type="EEBO-CITATION">99873186</idno>
+            <idno type="PROQUEST">99873186</idno>
+            <idno type="VID">168572</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86746)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168572)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 146:E983[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition and addresse of the officers of the Army, to the Parliament of the Common-Wealth of England, &amp;c. Thursday, May 12, 1659. Ordered by the officers of the Army, that this petition and address be forthwith printed and published. Thomas Sandford Secretary.</title>
+                  <author>England and Wales. Army.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Henry Hills, for him and Francis Tyton, and are to be sold at the Three Daggers in Fleetstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 13th"; "May. 13".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168572:1" rendition="simple:additions"/>
+            <p>The Humble PETITION AND ADDRESSE OF THE OFFICERS of the ARMY, TO THE PARLIAMENT OF THE COMMON-WEALTH OF <hi>ENGLAND, &amp;c.</hi>
+            </p>
+            <q>
+               <p>
+                  <hi>Thurſday, May</hi> 12, 1659.</p>
+               <p>ORdered by the Officers of the Army, That this Petition and Addreſs be forthwith Printed and Publiſhed.</p>
+               <bibl>
+                  <hi>Thomas Sandford</hi> Secretary.</bibl>
+            </q>
+            <p>LONDON, Printed by <hi>Henry Hills,</hi> for him and <hi>Francis Tyton,</hi> and are to be ſold at the Three Dag<g ref="char:EOLhyphen"/>gers in <hi>Fleetſtreet,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168572:2"/>
+            <pb n="1" facs="tcp:168572:2"/>
+            <head>The humble PETITION AND ADDRESSE Of the OFFICERS of the Army, To the PARLIAMENT of the Common-wealth of <hi>England,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Alling to minde the former Decla<g ref="char:EOLhyphen"/>rations of Parliament, and the grounds therein inviting us to take up Arms, and thoſe many ſignal Providences, wherein the Lord hath owned you and your Forces both by Sea and Land, in aſſerting that
+<pb n="2" facs="tcp:168572:3"/>Righteous Cauſe, wherein the civil and religi<g ref="char:EOLhyphen"/>ous Liberties of the People of theſe Nations were involved, ſo as all open oppoſition was beaten down before you; And likewiſe weigh<g ref="char:EOLhyphen"/>ing with our ſelves, how in the ſeveral late changes in Government, that Publique ſpirit which appeared in that work, hath ſince that time been diſcouraged, and another raiſed up, drawing back to the ſame things you had contended a<g ref="char:EOLhyphen"/>gainſt, even to the hazzarding the eſſentials of that Cauſe; We did, upon ſerious thoughts of heart, think it our duty once more to appear againſt thoſe backſliding waies; and providence having brought the ſtate of affairs to the condition they were in ſome few days before your ſitting, we found it neceſſary to aſſert amongſt our ſelves, ſome of the fundamentals of our <hi>Good old Cauſe,</hi> with ſome other things conducing to the preſervation thereof, with a full and fixed reſolution, through the aſſiſtance of God, effe<g ref="char:EOLhyphen"/>ctually, even to the hazzard of our lives, to en<g ref="char:EOLhyphen"/>deavour the recovery and ſecurity of the ſame. And the ſame good Providence holding forth an opportunity to us, to open unto you a way for the further diſcharge of your remaining truſt in Parliament, we did, by our Declaration of the 6<hi rend="sup">th</hi> of this inſtant <hi>May,</hi> humbly deſire you would be pleaſed to return to the exerciſe and diſ<g ref="char:EOLhyphen"/>charge thereof, as before the 20<hi rend="sup">th</hi> of <hi>April</hi> 1653.</p>
+            <pb n="3" facs="tcp:168572:3"/>
+            <p>And having, to our great rejoycing, ſeen your Declaration of the 7<hi rend="sup">th</hi> inſtant, ſhewing, That you are reſolved, through the gracious aſſiſtance of Almight God, to apply your ſelves to the faithful diſcharge of the truſt repoſed in you, and to endeavour the ſettlement of this Common-wealth upon ſuch a foundation, as may aſſert, eſtabliſh and ſecure the Liberties of the people, in reference unto all, both as men and Chriſtians, and that without a ſingle Perſon, King-ſhip, or houſe of Peers, reſolving vigorouſly to endea<g ref="char:EOLhyphen"/>vour the carrying on the work of Reformation, ſo much deſired, and ſo often declared for, to the end there may be a godly and faithful Magiſtracy and Miniſtry upheld and maintained in theſe Nations; which ſo fully anſwers what our hearts were drawn forth to deſire, that we could not any longer forbear to expreſs our thankfulneſs, for this door of hope again opened towards the ob<g ref="char:EOLhyphen"/>taining a conſummation of thoſe things ſo much breathed after by the good people of this Com<g ref="char:EOLhyphen"/>monwealth. And however we finde our ſelves in ſome meaſure prevented by the late Declara<g ref="char:EOLhyphen"/>tion and reſolves of this Parliament, yet never<g ref="char:EOLhyphen"/>theleſs we have judged it our duty to repreſent what was chiefly and unanimouſly upon our hearts, when we engaged in that which made way for your return, which we humbly, as be<g ref="char:EOLhyphen"/>comes us, lay before you.</p>
+            <pb n="4" facs="tcp:168572:4"/>
+            <p n="1">I. That the Liberty of the perſons, and Property of the Eſtates of all the Free people of theſe Nations be maintained, preſerved, and kept inviolable, accord<g ref="char:EOLhyphen"/>ing to Law, under the Government of a Free State and Commonwealth, with<g ref="char:EOLhyphen"/>out a ſingle Perſon, King-ſhip, or Houſe of Peers.</p>
+            <p n="2">II. That there may be ſuch a juſt and due regulation of Law, and Courts of Juſtice and Equity, as that they may be a protection, and not vexatious or oppreſſive to the people of theſe Na<g ref="char:EOLhyphen"/>tions.</p>
+            <p n="3">III. That by an Act of Oblivion, all and every perſon and perſons, who have ſince the Nineteenth of <hi>April,</hi> 1653,
+<pb n="5" facs="tcp:168572:4"/>mediately or immediately Adviſed, Act<g ref="char:EOLhyphen"/>ed or Done, or Commanded or Ap<g ref="char:EOLhyphen"/>pointed to be Acted or Done, Or by Commmand or Appointment, have Acted or Done any Matter or Thing whatſoever, in reference to the ſeveral Changes or Alterations in the Govern<g ref="char:EOLhyphen"/>ment of theſe Nations, ſince the ſaid Nineteenth of <hi>April,</hi> 1653, or in order to the publick Service, Peace, or Safe<g ref="char:EOLhyphen"/>ty of theſe Nations, be indempnified and ſaved harmleſs to all intents and purpoſes whatſoever.</p>
+            <p n="4">IV. That all Laws, Ordinances, Orders, De<g ref="char:EOLhyphen"/>clarations, and Eſtabliſhments made in the ſeveral changes and alterations of Government that have been in theſe Na<g ref="char:EOLhyphen"/>tions ſince the Nineteenth of <hi>April</hi> a<g ref="char:EOLhyphen"/>foreſaid, and not as yet particularly Re<g ref="char:EOLhyphen"/>pealed, be deemed good in Law until particularly repealed.</p>
+            <pb n="6" facs="tcp:168572:5"/>
+            <p n="5">V. That ſuch Debts as have been contra<g ref="char:EOLhyphen"/>cted for the publique Service and Af<g ref="char:EOLhyphen"/>fairs of this Commonwealth, and for the Charges of the Government, ſince the Twentieth of <hi>April,</hi> 1653, be care<g ref="char:EOLhyphen"/>fully Paid and Satisfied.</p>
+            <p n="6">VI. That all perſons who profeſs Faith in God the Father, and in Jeſus Chriſt his Eternal Son, the true God, and in the Holy Spirit God co-equal with the Father and the Son, one God bleſſed for ever, and do acknowledge the Holy Scriptures, of the Old and New Teſta<g ref="char:EOLhyphen"/>ment to be the revealed or written Word or Will of God, ſhall not be reſtrained from their profeſſion, but have due encouragement, and equal pro<g ref="char:EOLhyphen"/>tection in the profeſſion of their Faith, and exerciſe of Religion, whileſt they
+<pb n="7" facs="tcp:168572:5"/>abuſe not this Liberty to the civil inju<g ref="char:EOLhyphen"/>ry of others, or diſturbance of others in their way of Worſhip: ſo that this Liberty be not extended to Popery or Prelacy; nor to ſuch as ſhall practiſe or hold forth Licentiouſneſs or Profane<g ref="char:EOLhyphen"/>neſs, under the profeſſion of Religion: And that all Laws, Statutes, Ordi<g ref="char:EOLhyphen"/>nances and Clauſes in any Laws, Sta<g ref="char:EOLhyphen"/>tutes, or Ordinances to the contrary, may be declared null and void.</p>
+            <p n="7">VII. That a godly, faithfull, and painfull Goſpel-preaching Miniſtry be every where encouraged, countenanced and maintained.</p>
+            <p n="8">VIII. That the Univerſities and Schools of Learning be ſo countenanced and refor<g ref="char:EOLhyphen"/>med, as that they may become the Nur<g ref="char:EOLhyphen"/>ſeries of Piety and Learning.</p>
+            <pb n="8" facs="tcp:168572:6"/>
+            <p n="9">IX. That ſuch perſons as have at any time ſince the Twentieth of <hi>May</hi> 1642, aid<g ref="char:EOLhyphen"/>ed, or aſſiſted, or adhered to the late King <hi>Charls Stuart,</hi> his Son, or any other perſon or perſons whatſoever of that party, againſt the Parliament or Common-wealth of <hi>England,</hi> and all other perſons whatſoever, that have made uſe of any Authority or Power, under pretence of Law or otherwiſe, to deprive or abridge any of the good People of theſe Nations of their Chri<g ref="char:EOLhyphen"/>ſtian liberty, or have, or ſhall expreſs themſelves in any way Mockers, Scoffers, or Revilers of Godlineſs, or of the Pro<g ref="char:EOLhyphen"/>feſsours thereof, or are otherwiſe ſcan<g ref="char:EOLhyphen"/>dalous, or looſe in their Converſations, or have not given good ſatisfaction of their affection and faithfulneſs to this Cauſe, may be ſpeedily removed out of all places of Power or Truſty in the Ma<g ref="char:EOLhyphen"/>giſtracy
+<pb n="9" facs="tcp:168572:6"/>or other Management of the Publick Affairs of theſe Nations; and that no ſuch perſons may be admitted unto any ſuch Place of Power, or Truſt, for the future.</p>
+            <p n="10">X. And foraſmuch as no godly or other good intereſt can be preſerved or main<g ref="char:EOLhyphen"/>tained, unleſs the perſons, who are cheif<g ref="char:EOLhyphen"/>ly entruſted with the mannagement and exerciſe of the Government, be of ſuit<g ref="char:EOLhyphen"/>able ſpirits to thoſe intereſts, That thoſe who are or ſhall be intruſted therein be ſuch Perſons as ſhall be found to be moſt eminent for Godlineſs, faith<g ref="char:EOLhyphen"/>fulneſs and conſtancie, to the Good Cauſe, and intereſts of theſe Nations.</p>
+            <p n="11">XI. That to the end the Legiſlative Au<g ref="char:EOLhyphen"/>thority of this Commonwealth may not by their long ſitting become bur<g ref="char:EOLhyphen"/>thenſome
+<pb n="10" facs="tcp:168572:7"/>or inconvenient, there may be effectual proviſion made for a due ſucceſſion thereof.</p>
+            <p n="12">XII. And for the better ſatisfaction and more firm union of the Forces of this Commonwealth, in this juncture of af<g ref="char:EOLhyphen"/>fairs, for preſerving and maintaining the principles and other matters thereunto ſubſervient, we do unanimouſly ac<g ref="char:EOLhyphen"/>knowledge and own the Lord <hi>Charles Fleetwood,</hi> Lieutenant General of the Ar<g ref="char:EOLhyphen"/>my, to be Commander in chief of the Land Forces of this Commonwealth.</p>
+            <p n="13">XIII. That, in order to the eſtabliſhing and ſecuring the Peace, welfare and freedom of the People of theſe Nations, for the ends before expreſſed, the Legiſlative Power thereof may be in a Repreſenta<g ref="char:EOLhyphen"/>tive of the People, Conſiſting of a Houſe
+<pb n="11" facs="tcp:168572:7"/>ſucceſſively choſen by the People, in ſuch way and manner as this Parliament ſhall judge meet; and of a ſelect Senate, Co-ordinate in power, of able and faith<g ref="char:EOLhyphen"/>ful Perſons, eminent for godlineſs, and ſuch as continue adhering to this Cauſe.</p>
+            <p n="14">XIV. That the adminiſtration of the Exe<g ref="char:EOLhyphen"/>cutive Power of Government may be in a Council of State, conſiſting of a con<g ref="char:EOLhyphen"/>venient number of perſons qualified in all reſpects as aforeſaid.</p>
+            <p n="15">XV. That all debts contracted by His late Highneſs, or his father, ſince the 15<hi rend="sup">th</hi> of <hi>December</hi> 1653, may be ſatisfied; and that an honourable Revenue of Ten thou<g ref="char:EOLhyphen"/>ſand pounds <hi>per Annum,</hi> with a conveni<g ref="char:EOLhyphen"/>ent houſe, may be ſetled upon him and his heirs for ever; and Ten thouſand pounds <hi>per Annum</hi> more upon him during
+<pb n="12" facs="tcp:168572:8"/>life; and upon his honourable Mother, Eight thouſand pounds <hi>per Annum</hi> du<g ref="char:EOLhyphen"/>ring her life; To the end a mark of the high eſteem this Nation hath of the good ſervice done by his father, our ever renowned General, may remain to po<g ref="char:EOLhyphen"/>ſterity.</p>
+            <p>Theſe having been the thoughts and deſires of our hearts, unanimouſly agreed upon before your returning to ſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and finding the ſpirits of divers of the honeſt faithfull People of this Common-wealth, led forth for the ſame things, and your ſelves, by your late Declaration and Reſolutions in a great meaſure aſſiſting them, we thought it our duty to the Nations, to You, and to the honeſt People, humbly to preſent theſe; and beg the bleſſing and preſence of the Lord with you in the proſecution and bring<g ref="char:EOLhyphen"/>ing forth ſuch a Settlement, as may be for the honour of God, the union, joy, and rejoycing of all the peaceable People of this Common-wealth.</p>
+            <p>
+               <hi>And We ſhall pray, &amp;c.</hi>
+            </p>
+            <closer>
+               <signed>Signed in the name and by the appointment of the Council of Officers, the Twelfth Day of <hi>May,</hi> 1659. <hi>Thomas Sandford</hi> Secretary.</signed>
+            </closer>
+            <closer>
+               <signed>
+                  <pb n="13" facs="tcp:168572:8"/>
+                  <list>
+                     <head>Preſented to the <hi>Parliament</hi> by,</head>
+                     <item>The Lord <hi>Lambert.</hi>
+                     </item>
+                     <item>Lord <hi>Desbrow.</hi>
+                     </item>
+                     <item>Colonel <hi>Berry.</hi>
+                     </item>
+                     <item>Colonel <hi>Hewſon.</hi>
+                     </item>
+                     <item>Colonel <hi>Barkstead.</hi>
+                     </item>
+                     <item>Colonel <hi>Lilburne.</hi>
+                     </item>
+                     <item>Colonel <hi>Cooper.</hi>
+                     </item>
+                     <item>Colonel <hi>Hacker.</hi>
+                     </item>
+                     <item>Colonel <hi>Okey.</hi>
+                     </item>
+                     <item>Colonel <hi>Sankey.</hi>
+                     </item>
+                     <item>Colonel <hi>Aſhfield.</hi>
+                     </item>
+                     <item>Major General <hi>Kelſey.</hi>
+                     </item>
+                     <item>Colonel <hi>Prittie.</hi>
+                     </item>
+                     <item>Colonel <hi>Salmon.</hi>
+                     </item>
+                     <item>Colonel <hi>Clerke.</hi>
+                     </item>
+                     <item>Colonel <hi>Fitch.</hi>
+                     </item>
+                     <item>Lieutenant Colonel <hi>Moſſe.</hi>
+                     </item>
+                     <item>Lieutenant Colonel <hi>Maſon.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
